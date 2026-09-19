@@ -20,3 +20,16 @@ Customizable fonts & backgrounds
 
 # Help me
 It's been genuinely useful for road trips and Supercharger stops, but I'm sure I'm missing obvious ideas. What would you want on a screen like this? Anything from small quality-of-life stuff to whole new sections. Happy to hear what other Tesla owners actually want while parked/charging.
+
+# screenshots
+Media
+![Image Alt](https://github.com/damver/Tesla-Theater---Watt-s-Playing/blob/main/screenhots/media.jpeg?raw=true)
+Games
+![Image Alt](https://github.com/damver/Tesla-Theater---Watt-s-Playing/blob/main/screenhots/games.jpeg?raw=true)
+Other
+![Image Alt](https://github.com/damver/Tesla-Theater---Watt-s-Playing/blob/main/screenhots/others.png?raw=true)
+News
+![Image Alt](https://github.com/damver/Tesla-Theater---Watt-s-Playing/blob/main/screenhots/news.png?raw=true)
+
+see all: 
+https://github.com/damver/Tesla-Theater---Watt-s-Playing/tree/main/screenhots
